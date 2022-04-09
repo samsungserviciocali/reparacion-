@@ -1,0 +1,91 @@
+div [class^="box"] {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(255, 253, 253);
+    padding: 20px;
+}
+.container {
+    padding: 0 25px;
+    display:;
+    
+}
+h2,
+p{
+    padding: 0 25px;
+    color: aliceblue;
+    background-color: black;
+
+}
+img{
+    height: 30%;
+}
+h1 {
+    padding: 0 25px;
+    font-size: 2em;
+}
+h2 {
+    padding: 0;
+    font-size: 2em;
+    color: azure;
+    background-color: rgb(20, 19, 19);
+
+}
+.box-1{
+background-color:rgb(8, 8, 8) ;
+color: aliceblue;
+}
+.box-2 {
+background-color: black;
+color: aliceblue;
+}
+.box-3 {
+background-color: black;
+color: aliceblue;
+}
+header {
+background-color: rgb(255, 254, 254);
+padding: 15px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 900; 
+color: rgb(146, 141, 141);
+font-size: 2em;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(13, 13, 14);
+background-image: url("https://www.centrotecnologicodigital.com/samsung/wp-content/uploads/2018/12/Neveras_01_SAMSUNG-1024x512.jpg");
+background-size: 400px;
+}
+ul {color: black;
+    background-color: azure;
+    padding: 25px;
+    border-radius: 0 0 15px 15px;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+margin: 0; 
+font-family: cursive;
+color: black; 
+font-size: 20px;
+background-image: url(https://img.global.news.samsung.com/pe/wp-content/uploads/2018/05/0019-1024x381.png);
+background-size: 400px;
+}
+h3 {
+color: rgb(250, 245, 245);
+background-color: rgb(23, 23, 136);
+padding: 25px;
+border-radius: 0 0 15px 15px;
+font-weight: 500;
+font-size: 40px;
+text-shadow: 5px 5px 5px rgb(252, 252, 253);
+}
+footer {
+    background-color: rgb(10, 10, 10);
+    padding: 15px;
+    font-weight: 1345;
+    color: aliceblue;
+}
+
